@@ -5,4 +5,7 @@
 </template>
 
 <style lang="scss">
+* {
+  font: caption;
+}
 </style>

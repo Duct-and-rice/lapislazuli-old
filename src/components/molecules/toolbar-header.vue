@@ -18,5 +18,8 @@ header.toolbar-header {
   -webkit-user-select: none;
   -webkit-app-region: drag;
 }
+.title {
+  font-weight: 500;
+}
 </style>
 

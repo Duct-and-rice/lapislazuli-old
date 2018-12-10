@@ -13,6 +13,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "@vuex-orm/core": "^0.31.1",
     "photon": "https://github.com/connors/photon",
     "vue": "^2.5.17",
     "vue-class-component": "^6.0.0",
